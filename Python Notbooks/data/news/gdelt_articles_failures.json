@@ -1,0 +1,12 @@
+[
+  {
+    "company": "AbbVie Inc.",
+    "ticker": "ABBV",
+    "error": "GDELT request failed after 5 attempts: 429 Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22AbbVie+Inc.%22+OR+%22AbbVie%22%29+AND+%28health+OR+FDA+OR+drug+OR+device+OR+recall+OR+approval%29&mode=ArtList&format=json&maxrecords=250&startdatetime=20251216073838&enddatetime=20260316073838&sort=DateDesc"
+  },
+  {
+    "company": "Gilead Sciences, Inc.",
+    "ticker": "GILD",
+    "error": "GDELT request failed after 5 attempts: 429 Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22Gilead+Sciences%2C+Inc.%22+OR+%22Gilead%22%29+AND+%28health+OR+FDA+OR+drug+OR+device+OR+recall+OR+approval%29&mode=ArtList&format=json&maxrecords=250&startdatetime=20251216073838&enddatetime=20260316073838&sort=DateDesc"
+  }
+]
